@@ -17,6 +17,7 @@ dependencies {
   implementation(project(":openinvadapterpaper1_21_4"))
   implementation(project(":openinvadapterpaper1_21_3"))
   implementation(project(":openinvadapterpaper1_21_1"))
+  implementation(project(":openinvadapterpaper1_20_6"))
   implementation(project(":openinvadapterspigot", configuration = SpigotReobf.ARTIFACT_CONFIG))
   implementation(libs.planarwrappers)
   implementation(libs.folia.scheduler.wrapper)
